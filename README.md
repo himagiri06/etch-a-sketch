@@ -9,3 +9,7 @@ This is project is to create a 2D matrix of square divs dynamically based on the
 - User input of grid size can be changed using the slider (input range)
 - When user hovers over a grid item, it changes to a random color.
 - A reset button is give to reset the colors back to white in all grid items
+
+## Live Demo
+
+[Link](https://himagiri06.github.io/etch-a-sketch/)

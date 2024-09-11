@@ -79,7 +79,6 @@ label {
   border: 1px solid var(--color-primary-dark-tint-1);
   display: flex;
   flex-wrap: wrap;
-  transition: all ease 1s;
 }
 
 .square {
